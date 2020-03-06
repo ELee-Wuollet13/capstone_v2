@@ -9,9 +9,10 @@ class Seed
     20.times do |i|
       wetsuit = Wetsuit.create!(
         brand: Faker::FunnyName.name,
-        size: Faker::Number.number(digits: 10)
+        size: Faker::Number.number(digits: 10),
+        availability: Faker::Number.number(digits: 1)
       )
-      puts "Wetsuit #{i}: Author is #{wetsuit.brand} and quotation is '#{wetsuit.size}'."
+      puts "Wetsuit #{i}: Brand #{wetsuit.brand} size #{wetsuit.size} availability #{wetsuit.availability}."
     end
   end
 end

@@ -18,6 +18,7 @@ ActiveRecord::Schema.define(version: 2020_03_05_224001) do
   create_table "wetsuits", force: :cascade do |t|
     t.string "brand"
     t.string "size"
+    t.string "availability"
   end
 
 end

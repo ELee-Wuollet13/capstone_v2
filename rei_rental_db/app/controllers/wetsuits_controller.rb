@@ -36,6 +36,6 @@ class WetsuitsController < ApplicationController
     render json: object, status: status
   end
   def wetsuit_params
-    params.permit(:brand, :size)
+    params.permit(:brand, :size, :availability)
   end
 end
