@@ -10,6 +10,12 @@ _Planning and white-boarding_
 
 ####Thursday march 5th
 _Began building rails Database_
+_spent day building database and setting parameters of objects in Database_
+_Current route when running (http://localhost:3000/wetsuits/1)_
+_Next steps:
+build out parameters
+establish basic react views
+make call from react to database_
 
 # _Capstone REI Rental_
 
