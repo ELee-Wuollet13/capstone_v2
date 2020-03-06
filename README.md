@@ -16,6 +16,8 @@ _Next steps:
 build out parameters
 establish basic react views
 make call from react to database_
+####Friday march 6th
+_Began react frontend_
 
 # _Capstone REI Rental_
 
