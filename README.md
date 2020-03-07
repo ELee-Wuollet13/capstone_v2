@@ -1,5 +1,5 @@
-##Capstone Work Log:
-####Friday Febuary 28th
+## _Capstone Work Log:_
+#### _Friday Febuary 28th_
 _Reviewed Ruby lessons and Marios project for areas I should focus on in the creation of my projects code._
 _Still studying and beginning to program_
 _Add rails project for possible modification_
@@ -8,7 +8,7 @@ _Found walkthrough for React with API Server: (https://dev.to/jerodimusprime/bui
 _Spent Friday evening discussing needs and priorities with employee contact_
 _Planning and white-boarding_
 
-####Thursday march 5th
+#### _Thursday march 5th_
 _Began building rails Database_
 _spent day building database and setting parameters of objects in Database_
 _Current route when running (http://localhost:3000/wetsuits/1)_
@@ -16,8 +16,9 @@ _Next steps:
 build out parameters
 establish basic react views
 make call from react to database_
-####Friday march 6th
+#### _Friday march 6th_
 _Began react frontend_
+_Functional redux kareoke app informs next steps in calling database_
 
 # _Capstone REI Rental_
 
