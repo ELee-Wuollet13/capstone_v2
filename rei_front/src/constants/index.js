@@ -1,5 +1,5 @@
-import * as types from './ActionTypes';
-import { initialState } from './InitialState';
+import * as types from './actionTypes';
+import { initialState } from './initialState';
 
 export default {
   initialState: initialState,
