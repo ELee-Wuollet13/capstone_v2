@@ -8,7 +8,7 @@ class Seed
   def generate_wetsuits
     20.times do |i|
       wetsuit = Wetsuit.create!(
-        brand: Faker::FunnyName.name,
+        brand: Faker::Name.first_name,
         size: Faker::Number.number(digits: 10),
         availability: Faker::Number.number(digits: 1)
       )
